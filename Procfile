@@ -1,1 +1,1 @@
-web: gunicorn django_pbp_refiany.wsgi --log-file -
+web: gunicorn djangoPBP.wsgi --log-file -
